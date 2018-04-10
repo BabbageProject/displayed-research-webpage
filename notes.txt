@@ -1,6 +1,31 @@
+[Books / Websites / Newspapers / Sources] I have researched through // further reading:
++Padua, Sydney. The Thrilling Adventures of Lovelace and Babbage *The (Mostly) True Story of the First Computer. Pantheon Books, 2015.
+
++Woolley, Benjamin. The Bride of Science: Romance, Reason and Byron's Daughter. Pan Books, 2015.
+
++Swade, Doron. The Cogwheel Brain: Charles Babbage and the Quest to Build the Fist Computer. Little, Brown and Company, 2000.
+
++Swade, Doron. Charles Babbage and His Calculating Engines. Science Museum, 1998.
+
++Babbage, Charles, and Henry Prevost. Babbage. Babbage's Calculating Engines: Being a Collection of Papers Relating to Them, Their History, and Construction. Cambridge University Press, 2010.
+
+and for help designing the webite--
++Duckett, Jon. HTML & CSS: Design and Build Websites. John Wiley & Sons, Inc., 2015.               
+
+
 This file is the research I have done, but isn't officially on the website.
 
 Babbage was inspired to create his difference engine when he
 
 Babbage found Ada Lovelace (or other way round) [when]//[and]
 
+
+
+
+
+
+______________________________________________________________________________________________________________________________________
+
+and while writing code / researching / doing most things related to this project I listened to this Spotify playlist:
+https://open.spotify.com/user/e313ryk2a50efs1eucufnfu8y/playlist/6eI234kj5XPH4Z7ytVj40I?si=igcTZ5vIT3a8Si0nSjMLhw
+and also the song 'Coffee, Sugar, Instant Love' by Blue Encount on repeat.
