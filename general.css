@@ -23,10 +23,6 @@ table{
 
 }
 
-pasc.jpg{
-  width:50px;
-  height:50px;
-}
 
 h1 {
   font-size: 60px;
@@ -51,15 +47,16 @@ p {
   padding: 5px;
 }
 
-p-right {
-  float: right;
-  width:50%;
-  background-color: white;
+.paragraph-left{
+  float: left;
+  width: 42%;
+
 }
 
-p-left {
-  float: left;
-  width:50%;
+.paragraph-right {
+  float: right;
+  width: 42%;
+
 }
 
 .topnav {
