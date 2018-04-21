@@ -49,10 +49,17 @@ p {
   border: 4px solid beige;
   border-radius: 25px;
   padding: 5px;
-  min-width: 480px;
-  max-width: 640px;
 }
 
+p-right {
+  float: left;
+  width:50%
+}
+
+p-left {
+  float: right;
+  width:50%
+}
 
 .topnav {
   overflow: hidden;
