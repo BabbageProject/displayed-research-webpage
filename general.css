@@ -48,6 +48,7 @@ p {
 }
 
 .paragraph-left{
+  background-color: blue;
   float: left;
   width: 42%;
 
