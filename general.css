@@ -48,16 +48,15 @@ p {
 }
 
 .paragraph-left{
-  background-color: blue;
   float: left;
-  width: 42%;
+  width: 47%;
   margin-right: 10px;
 
 }
 
 .paragraph-right {
   float: right;
-  width: 42%;
+  width: 47%;
   margin-left: 10px;
 
 }
