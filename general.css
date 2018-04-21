@@ -54,6 +54,7 @@ p {
 p-right {
   float: right;
   width:50%;
+  background-color: white;
 }
 
 p-left {
