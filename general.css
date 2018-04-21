@@ -52,13 +52,13 @@ p {
 }
 
 p-right {
-  float: left;
-  width:50%
+  float: right;
+  width:50%;
 }
 
 p-left {
-  float: right;
-  width:50%
+  float: left;
+  width:50%;
 }
 
 .topnav {
