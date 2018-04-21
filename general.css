@@ -48,6 +48,9 @@ p {
   color: beige;
   border: 4px solid beige;
   border-radius: 25px;
+  padding: 5px;
+  min-width: 360px;
+  max-width: 480px;
 }
 
 
