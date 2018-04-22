@@ -1,1 +1,19 @@
+.paragraph-left {
+  float: left;
+  width: 49%;
+  margin-right: 10px;
 
+}
+
+img-right{
+  float: right;
+  width: 47%;
+  margin: 2%;
+}
+
+.paragraph-right {
+  float: right;
+  width: 49%;
+  margin-left: 10px;
+
+}
