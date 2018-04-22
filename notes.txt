@@ -15,7 +15,7 @@ and for help designing the webite--
 
 This file is the research I have done, but isn't officially on the website.
 
-**Remember the paragraphs have a width of around 60 characters..
+**Remember the 49% paragraphs have a width of around 60 characters..
 
 Babbage was inspired to create his difference engine when he
 
