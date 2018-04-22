@@ -1,5 +1,5 @@
 body {
-
+  word-wrap: break-word;
   background-color: #3c3c3c;
   color: beige;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
