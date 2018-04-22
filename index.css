@@ -1,1 +1,13 @@
+.paragraph-left{
+  float: left;
+  width: 49%;
+  margin-right: 10px;
 
+}
+
+.paragraph-right {
+  float: right;
+  width: 49%;
+  margin-left: 10px;
+
+}
