@@ -11,14 +11,19 @@ Babbage Project
 <link rel="icon" href="cog_icon_2CE_icon.ico"><link rel="icon" href="cog_icon_2CE_icon.ico">
 </head>
 <body>
+     <script>
+          var array = ["Hi!", "Welcome!", "Thnks fr the cmptrs, bbbg", "¯\_(ツ)_/¯", "ฅ^•ﻌ•^ฅ", "(∩｀-´)⊃━☆ﾟ.*･｡ﾟ"];
+          var randInt = randomGenerator(0, array.length - 1);
+          var item = array[randInt];
+          document.getElementById('randomScroll').innerHTML = item;
+     
+     </script>
      <audio autoplay loop>
   <source src="Vienesse Musical Clock.mp3" type="audio/mpeg">
 </audio>
      
      <div class="title"><img src="BabbageProject.png" width = "768" height="311.309" /></div>
-     <marquee>
-      Welcome!
-     </marquee>
+     <marquee id="randomScroll"></marquee>
 
                  <div class="topnav" id="myTopnav">
                     <a href="#">Home</a>
