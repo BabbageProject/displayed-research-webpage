@@ -15,10 +15,12 @@ Babbage Project
 </head>
 <body>
      <script>
-          var array = ["Hi!", "Welcome!", "Thnks fr the cmptrs, bbbg", "¯\_(ツ)_/¯", "ฅ^•ﻌ•^ฅ", "(∩｀-´)⊃━☆ﾟ.*･｡ﾟ"];
-          var randInt = randomGenerator(0, array.length - 1);
-          var item = array[randInt];
-          document.getElementById('randomScroll').innerHTML = item;
+       window.onload = function(){          
+      var array = ["Hi!", "Welcome!", "Thnks fr the cmptrs, bbbg", "¯\_(ツ)_/¯", "ฅ^•ﻌ•^ฅ", "(∩｀-´)⊃━☆ﾟ.*･｡ﾟ"];
+      var randInt = randomGenerator(0, array.length - 1);
+      var item = array[randInt];
+      document.getElementById('randomScroll').innerHTML = item;
+    };
      
      </script>
      <audio autoplay loop>
