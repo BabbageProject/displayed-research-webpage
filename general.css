@@ -4,6 +4,27 @@ body {
   color: beige;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: aqua;
+}
+
 .title {
     margin: auto;
 }
