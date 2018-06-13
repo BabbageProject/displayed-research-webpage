@@ -1,6 +1,6 @@
 .paragraph-left {
   float: left;
-  width: 59%;
+  width: 49%;
   margin-right: 10px;
 
 }
@@ -13,7 +13,7 @@
 
 .paragraph-right {
   float: right;
-  width: 37%;
+  width: 49%;
   margin-left: 10px;
 
 }
