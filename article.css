@@ -5,6 +5,12 @@
 
 }
 
+.centre {
+  float: centre;
+  padding: 50px;
+
+}
+
 .img-right {
   float: right;
   width: 37%;
