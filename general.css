@@ -6,10 +6,14 @@ body {
 }
 
 img {
-  border: 2px solid #dddd;
-  border-radius: 6px;
   padding: 5px;
 }
+
+.img-profile {
+  border: 2px solid #dddd;
+  border-radius: 6px;
+}
+
 /* unvisited link */
 a:link {
     color: white;
